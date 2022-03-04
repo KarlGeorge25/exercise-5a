@@ -3,7 +3,7 @@
 <html>
 
 <body>
-<p align="left">Carlo Jhon D. Mesde<p>
+<p align="left">Astudillo Karl George B.<p>
 <center><h2>My Tables</h2></center>
 
 <b><p>Table A</p></b>
